@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1742079058 source:c:\users\lesti\desktop\beadandó1\main.cpp
+	"graphics.hpp"
+	<vector>
+	<fstream>
+	<cmath>
+	<ctime>
+	<cstdlib>
+
+1618178770 c:\users\lesti\desktop\beadandó1\include\graphics.hpp
+	<string>
+	<vector>
+
